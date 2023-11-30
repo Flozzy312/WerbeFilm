@@ -1,0 +1,45 @@
+
+.one {
+    display: flex;
+    justify-content: center;
+   background-color: green;
+   color: blue;
+   margin: 0px;
+   border-top: 0px;
+    
+}
+
+.img1 {
+    display: flex;
+    justify-content: right;
+
+}
+
+.vd {
+    display: flex;
+    justify-content: center;
+    margin-top: 5em;
+    
+
+
+}
+
+.foot {
+
+    justify-content: center;
+    display: flex;
+    color: green;
+    background-color: blue;
+    margin-top: 50em;
+    margin-bottom: 0em;
+
+}
+
+.img {
+    display: flex;
+    justify-content: center;
+    height: 400px;
+    
+
+
+}
